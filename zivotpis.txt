@@ -1,0 +1,77 @@
+
+
+ 
+IVOTOPIS
+
+ 
+Osobné údaje (dátum a miesto narodenia):
+ 
+12.7.2000, Bratislava
+
+
+
+ 
+Vzdelanie (druh absolvovanej školy, kurzu, 
+odbornej praxe a pod., miesto a rok ukonèenia, resp. predpokladaného ukonèenia):
+ 
+Gymnázium Matky Alexie, Bratislava
+Kód študijného oboru: 7902J00 - gymnázium
+Miesto a rok ukonèenia: Bratislava, 2019
+
+
+
+
+
+
+
+
+ 
+
+ 
+Osobitné vedomosti (jazykové, poèítaèové, odborné, a pod.):
+ 
+Jazykové znalosti
+Slovenskı jazyk - materinskı
+Anglickı jazyk - Stredne pokroèilı (B2)
+Nemeckı jazyk - Zaèiatoèník (A2) 
+Ostatné znalosti
+C++ - pokroèilı
+Pascal - pokroèilı
+Microsoft Excel - pokroèilı
+Microsoft PowerPoint - pokroèilı
+Microsoft Word - pokroèilı
+Microsoft Windows - pokroèilı
+UNIX/Linux - zaèiatoèník
+
+
+ 
+Osobné záujmy :
+ 
+klavír, informatika, filozofia, futbal
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Motivácia štúdia pre zvolenı študijnı program na 
+fakulte matematiky, fyziky a informatiky UK: 
+ 
+Moje prvé stretnutie s informatikou prebehlo u v útlom detstve, pretoe môj otec je programátor. Vdy ma fascinovalo, ako môu poèítaèe robi také úasné veci, ako napr. poèítaèové hry, internet...
+U od základnej školy som sa venoval matematike. Odmalièka som sa zúèastòoval na matematickıch sústredeniach korešpondeènıch seminárov Malynár, PIKOMAT a na strednej škole KMS. Ako stredoškolák som spoznával programovanie na hodinách informatiky i na seminári KSP (zúèastnil som sa 3 sústredení). Algoritmické programovanie ma ve¾mi zaujalo, ale najviac ma zaujíma vıvoj aplikácií. V poslednom roèníku na strednej som spolu so spoluiakmi naprogramoval plne funkènı softvér pre hypermarket pod vedenım ininiera Ing. Galinského z fakulty FIIT STU. Mal som na starosti najnároènejší program (pokladòa) a vedenie tímu: organizoval som našu prácu a pomáhal som kadému èlenovi tímu s problémami, ktoré mu vznikli. Vısledkom našej práce bol funkènı systém, ktorı pracoval nad databázou súborov na sieti.
+V budúcnosti by som chcel vyvíja softvér, ktorı vyuíva umelú inteligenciu a/alebo internet vecí. Tieto informatické fenomény ma zaujali a chcel by som sa o nich poèas štúdia viac dozvedie a následne nadobudnuté poznatky vyui v praxi.
+
+
+
+ 
+Miesto a dátum napísania ivotopisu: 				Vlastnoruènı podpis:
+ 
+V Bratislave, NNNNNN
